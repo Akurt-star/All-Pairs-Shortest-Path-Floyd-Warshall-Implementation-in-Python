@@ -1,4 +1,4 @@
-# Floyd–Warshall Algorithm Implementation
+# All Pairs Shortest Path (Floyd-Warshall) Algorithm Implementation
 
 This repository contains a Python implementation of the **Floyd–Warshall algorithm** for computing the shortest paths between all pairs of nodes in a directed weighted graph.  
 The implementation is compared with NetworkX’s built-in `floyd_warshall` function for correctness, and the graph is also visualized using `matplotlib` and `networkx`.
